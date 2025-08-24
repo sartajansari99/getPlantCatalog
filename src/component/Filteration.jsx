@@ -29,6 +29,7 @@ export default function Filters({
           <option value="">Category</option>
           <option value="Indoor">Indoor</option>
           <option value="Outdoor">Outdoor</option>
+          <option value="Outdoor">Flowering</option>
           <option value="Decorative">Decorative</option>
           <option value="Medicinal">Medicinal</option>
           <option value="Succulent">Succulent</option>
